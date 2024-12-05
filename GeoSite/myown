@@ -1,0 +1,11 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN,cc-api-data.adobe.io
+DOMAIN,cc-api-behance.adobe.io
+DOMAIN,search.adobe.io
+DOMAIN,stock.adobe.io
+
+# 域名关键字匹配
+
+# 国外DNS
