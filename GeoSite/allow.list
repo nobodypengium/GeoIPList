@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,rutor.info
+DOMAIN-SUFFIX,rutracker.org
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
