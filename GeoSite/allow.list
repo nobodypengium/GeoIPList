@@ -1,6 +1,9 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,rutor.info
+
+# 域名匹配
 DOMAIN,cc-api-data.adobe.io
 DOMAIN,cc-api-behance.adobe.io
 DOMAIN,search.adobe.io
