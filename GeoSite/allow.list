@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,aegisub.org
+DOMAIN-SUFFIX,metacubex.one
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
