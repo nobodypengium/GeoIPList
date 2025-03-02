@@ -5,6 +5,32 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,geo2.adobe.com
+DOMAIN-SUFFIX,helpx.adobe.com
+DOMAIN-SUFFIX,sstats.adobe.com
+DOMAIN-SUFFIX,ereg.adobe.com
+DOMAIN-SUFFIX,activate.wip3.adobe.com
+DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,wip3.adobe.com
+DOMAIN-SUFFIX,practivate.adobe.com
+DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
+DOMAIN-SUFFIX,lm.licenses.adobe.com
+DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+DOMAIN-SUFFIX,3dns-2.adobe.com
+DOMAIN-SUFFIX,3dns-3.adobe.com
+DOMAIN-SUFFIX,adobe-dns.adobe.com
+DOMAIN-SUFFIX,adobe-dns-2.adobe.com
+DOMAIN-SUFFIX,adobe-dns-3.adobe.com
+DOMAIN-SUFFIX,ereg.wip3.adobe.com
+DOMAIN-SUFFIX,activate-sea.adobe.com
+DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,hl2rcv.adobe.com
+DOMAIN-SUFFIX,crs.cr.adobe.com
+DOMAIN-SUFFIX,cc-cdn.adobe.com
+DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com
+DOMAIN-SUFFIX,assets.adobedtm.com
 
 # 域名关键字匹配
 
