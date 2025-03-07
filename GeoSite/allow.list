@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,aegisub.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,openrailwaymap.org
+DOMAIN-SUFFIX,vy.no
+DOMAIN-SUFFIX,moengage.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
