@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,openrailwaymap.org
 DOMAIN-SUFFIX,vy.no
 DOMAIN-SUFFIX,moengage.com
+DOMAIN-SUFFIX,banal.me
+DOMAIN-SUFFIX,banal.cc
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
