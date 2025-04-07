@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,uni-heidelberg.de
 DOMAIN-SUFFIX,rutracker.ru
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,bitgetapps.com
+DOMAIN-SUFFIX,tokenpocket.pro
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
