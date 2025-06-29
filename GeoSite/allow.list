@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,sherlock-holmes.co.uk
 DOMAIN-SUFFIX,um.dk
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,mapbox.com
+DOMAIN-SUFFIX,dsb.dk
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
