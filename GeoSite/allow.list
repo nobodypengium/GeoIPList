@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,comwell.com
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 DOMAIN-SUFFIX,agoda.cn
+DOMAIN-SUFFIX,zugspitze.de
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
