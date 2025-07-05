@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,dsb.dk
 DOMAIN-SUFFIX,comwell.com
+DOMAIN-SUFFIX,agoda.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
