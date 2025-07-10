@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,agoda.net
 DOMAIN-SUFFIX,agoda.cn
 DOMAIN-SUFFIX,zugspitze.de
 DOMAIN-SUFFIX,ticket-plus.app
+DOMAIN-SUFFIX,vorfrelserskirke.dk
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
