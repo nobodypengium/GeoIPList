@@ -28,6 +28,10 @@ DOMAIN-SUFFIX,zugspitze.de
 DOMAIN-SUFFIX,ticket-plus.app
 DOMAIN-SUFFIX,vorfrelserskirke.dk
 DOMAIN-SUFFIX,billetto.dk
+DOMAIN-SUFFIX,postcrossing.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,spotxchange.com
+DOMAIN-SUFFIX,blismedia.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
