@@ -4,6 +4,8 @@
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbctvapps.co.uk
+DOMAIN-SUFFIX,bbcsmarttv.2cnt.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,bbcfmt
