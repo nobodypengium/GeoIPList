@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,monkrus.ws
 DOMAIN-SUFFIX,korea-dpr.com
 DOMAIN-SUFFIX,diskprices.com
 DOMAIN-SUFFIX,qgis.org
+DOMAIN-SUFFIX,qbittorrent.org
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
