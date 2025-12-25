@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,qgis.org
 DOMAIN-SUFFIX,qbittorrent.org
 DOMAIN-SUFFIX,recraft.ai
 DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,viking-links.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
