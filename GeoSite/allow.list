@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,unraid.net
 DOMAIN-SUFFIX,flightradar24.com
 DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,blu-ray.com
+DOMAIN-SUFFIX,flightconnections.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
