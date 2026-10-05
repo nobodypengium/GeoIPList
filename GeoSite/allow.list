@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,blu-ray.com
 DOMAIN-SUFFIX,flightconnections.com
 DOMAIN-SUFFIX,visa.com
 DOMAIN-SUFFIX,travelclick.com
+DOMAIN-SUFFIX,travelclickchina.cn
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
