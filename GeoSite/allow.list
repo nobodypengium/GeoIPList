@@ -55,8 +55,6 @@ DOMAIN-SUFFIX,visa.com
 DOMAIN-SUFFIX,travelclick.com
 DOMAIN-SUFFIX,travelclickchina.cn
 DOMAIN-SUFFIX,thrifty.co.nz
-DOMAIN-SUFFIX,hertz.cn
-DOMAIN-SUFFIX,hertz.com
 
 # 域名匹配
 DOMAIN,cc-api-data.adobe.io
